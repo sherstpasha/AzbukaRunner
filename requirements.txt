@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.7.1+cu118
+PyYAML>=6.0
+easyocr>=1.7.1
+opencv-python>=4.7.0.72
+numpy>=1.23
+transformers
