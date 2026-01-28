@@ -6,3 +6,6 @@ easyocr>=1.7.1
 opencv-python>=4.7.0.72
 numpy>=1.23
 transformers
+manuscript==0.1.10
+ultralytics
+tqdm
